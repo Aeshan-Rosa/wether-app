@@ -2,7 +2,7 @@
 # 🌦️ AnWhether – Weather App (Frontend + Backend)
 
 AnWhether is a real-time **weather forecasting** application built with a **React frontend** and a **Node.js + Express backend**, powered by the **OpenWeather API**.  
-It provides accurate, location-based weather information with a clean, responsive UI.
+It provides accurate, location-based weather information with a clean, responsive ui.
 
 ---
 
